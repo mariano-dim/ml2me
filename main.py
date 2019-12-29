@@ -10,7 +10,8 @@ def main():
     path = os.getcwd()
 
     print('|-|-|-|-|-|-|-|-|-|-|-|-|-|-  Starting Program  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|- \n')
-    print('From testing main main')
+    print('From testing main main main')
+
 
 # Llamada a la funcion de arranque
 main()
