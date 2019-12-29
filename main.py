@@ -11,7 +11,7 @@ def main():
 
     print('|-|-|-|-|-|-|-|-|-|-|-|-|-|-  Starting Program  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|- \n')
     print('From testing main main main')
-
+    print('Tercera linea')
 
 # Llamada a la funcion de arranque
 main()
