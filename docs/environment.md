@@ -1,5 +1,4 @@
 
-
 Instalar kubectl y minukube en ubunto 18.04
 -
 
@@ -13,4 +12,8 @@ Para acceder a un servicio NodePort en minikube
 IP=$(minikube ip)
 PORT=$(kubectl get svc mongo-db-service -o jsonpath="{.spec.ports[0].nodePort}")
 
+Para trabajar con python
+-
+
+To install a package from pip use instead (in windows 10) python -m pip install pymongo --user
 
