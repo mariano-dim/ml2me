@@ -17,3 +17,8 @@ Para trabajar con python
 
 To install a package from pip use instead (in windows 10) python -m pip install pymongo --user
 
+Para montar volume con el code base
+-
+Tener en cuenta de darle permisos a docker sobre el drive C
+
+docker run -it --rm -v c:\\Users\\mdima\\Documents\\workspace\\ml2me:/usr/src/app ffx11-app
