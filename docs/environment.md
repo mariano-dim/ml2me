@@ -17,6 +17,10 @@ Para trabajar con python
 
 To install a package from pip use instead (in windows 10) python -m pip install pymongo --user
 
+
+Para buildear la imagen de docker
+-
+
 Para montar volume con el code base
 -
 Tener en cuenta de darle permisos a docker sobre el drive C
